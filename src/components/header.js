@@ -4,7 +4,7 @@ const Header =() => {
     return(
         <header>
             <nav>
-                <h1> title</h1>
+                <h1> </h1>
             </nav>
         </header>
     );

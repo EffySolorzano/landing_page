@@ -15,8 +15,8 @@ const LandingPage = () => {
     <main className="landing-page">
       <div className="profile-section">
         <img src="/123.jpg" alt="Profile" className="profile-pic" />
-        <h1>Your Name</h1>
-        <p>Your Tagline or Description</p>
+        <h1>Stephanie Solórzano</h1>
+        <p>Front End Dev & Illustrator</p>
       </div>
       <div className="button-links">
         {links.map((link, index) => (
