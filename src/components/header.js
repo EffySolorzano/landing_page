@@ -1,13 +1,14 @@
 import React from 'react';
 
-const Header =() => {
-    return(
-        <header>
+
+const Header = () => {
+    return (
+        <header className="header">
             <nav>
-                <h1> </h1>
+                {/* No content needed here */}
             </nav>
         </header>
     );
 };
 
-export default Header; 
+export default Header;

@@ -14,7 +14,7 @@ const LandingPage = () => {
   return (
     <main className="landing-page bg">
       <div className="profile-section">
-        <img src="/123.jpg" alt="Profile" className="profile-pic" />
+        <img src="/steph.jpg" alt="Profile" className="profile-pic" />
         <h2 className="title">Stephanie Solórzano</h2>
         <h3 className="text-left">I'm a Junior Front-End Developer from 🇻🇪 ✨ and located in Europe. I have a passion for creating beautiful 
         <br/>and functional websites and landing pages. My background is in illustration, which brings a unique artistic perspective 
