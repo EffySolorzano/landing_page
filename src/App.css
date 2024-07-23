@@ -180,6 +180,6 @@ body, html {
     padding: 0.5rem 1rem;
   }
   .link-button:last-child {
-    margin-bottom: 2rem; /* Reduce bottom margin for smaller screens */
+    margin-bottom: 1rem; /* Reduce bottom margin for smaller screens */
   }
 }
